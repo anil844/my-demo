@@ -4,3 +4,4 @@ googletrans==4.0.0-rc1
 gtts
 pydub
 https://d80adee8b0f1a183bc.gradio.live/
+https://c2709a067db4bd0845.gradio.live/
